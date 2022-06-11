@@ -13,5 +13,6 @@ public class GItTest {
         System.out.println("Git Test2");
         System.out.println("masterUpdate");
         System.out.println("hot-fixUpdate");
+        System.out.println("123456");
     }
 }
