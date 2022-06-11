@@ -14,5 +14,6 @@ public class GItTest {
         System.out.println("masterUpdate");
         System.out.println("hot-fixUpdate");
         System.out.println("123456");
+        System.out.println("pull123456");
     }
 }
